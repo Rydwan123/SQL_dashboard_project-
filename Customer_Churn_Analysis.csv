@@ -1,0 +1,501 @@
+Customer ID,Gender,Age,Subscription Plan,Contract Type,Payment Method,Monthly Fee,Total Spent,Churn
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Male,69,Basic,Yearly,PayPal,80.17,1683.57,Yes
+23b8c1e9-3924-46de-beb1-3b9046685257,Male,40,Premium,Yearly,Bank Transfer,40.03,320.24,No
+bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,Female,19,Standard,Quarterly,Debit Card,26.36,553.56,No
+972a8469-1641-4f82-8b9d-2434e465e150,Female,39,Basic,Monthly,Credit Card,57.23,572.3,Yes
+17fc695a-07a0-4a6e-8822-e8f36c031199,Female,33,Premium,Quarterly,Debit Card,80.67,1532.73,No
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,Female,20,Basic,Yearly,PayPal,25.35,177.45,Yes
+b74d0fb1-32e7-4629-8fad-c1a606cb0fb3,Male,31,Standard,Quarterly,Credit Card,11.44,22.88,No
+6b65a6a4-8b81-48f6-b38a-088ca65ed389,Male,24,Basic,Yearly,PayPal,91.84,367.36,Yes
+47378190-96da-4dac-b2ff-5d2a386ecbe0,Female,19,Standard,Quarterly,Debit Card,59.2,1302.4,Yes
+c241330b-01a9-471f-9e8a-774bcf36d58b,Female,43,Standard,Quarterly,Debit Card,93.4,1494.4,No
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,Female,40,Basic,Quarterly,Bank Transfer,86.01,1118.13,Yes
+371ecd7b-27cd-4130-8722-9389571aa876,Male,41,Standard,Monthly,Bank Transfer,64.63,840.19,Yes
+1a2a73ed-562b-4f79-8374-59eef50bea63,Male,62,Basic,Monthly,PayPal,48.11,48.11,Yes
+5be6128e-18c2-4797-a142-ea7d17be3111,Female,28,Premium,Monthly,Bank Transfer,75.61,75.61,No
+43b7a3a6-9a8d-4a03-980d-7b71d8f56413,Female,56,Standard,Monthly,Bank Transfer,87.68,701.44,No
+759cde66-bacf-43d0-8b1f-9163ce9ff57f,Male,65,Premium,Yearly,Debit Card,39.27,117.81,No
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,Female,44,Premium,Monthly,PayPal,20.76,290.64,No
+4b0dbb41-8d52-48f1-942c-3fe860e7a113,Male,43,Premium,Yearly,Debit Card,54.44,489.96,No
+e2acf72f-9e57-4f7a-a0ee-89aed453dd32,Female,59,Basic,Yearly,PayPal,90.62,1540.54,No
+3139d32c-93cd-49bf-9c94-1cf0dc98d2c1,Female,21,Standard,Monthly,PayPal,64.4,966,No
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,Female,30,Premium,Yearly,PayPal,24.51,49.02,No
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e,Female,23,Standard,Quarterly,PayPal,39.19,901.37,No
+ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31,Male,50,Basic,Monthly,PayPal,48.44,968.8,No
+7412b293-4729-4739-a14f-f3d719db3ad0,Male,56,Standard,Yearly,Credit Card,53.63,53.63,Yes
+29a3b2e9-5d65-4441-9588-42dea2bc372f,Female,41,Premium,Yearly,Debit Card,29.69,267.21,No
+ab9099a4-35a2-40ae-9af3-05535ec42e08,Female,66,Standard,Quarterly,PayPal,54.75,930.75,Yes
+aefcfad8-efc8-4849-b3aa-7efe4458a885,Female,34,Premium,Monthly,Debit Card,55.24,1215.28,Yes
+a28defe3-9bf0-4273-9247-6f57a5e5a5ab,Female,50,Basic,Yearly,Debit Card,23.04,276.48,No
+3eabedcb-baa8-4dd4-88bd-64072bcfbe01,Female,49,Premium,Yearly,PayPal,43.27,735.59,No
+451b4cf3-6123-4df7-b656-af7229d4beef,Female,22,Standard,Quarterly,Debit Card,58.22,931.52,No
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6,Male,23,Basic,Yearly,Bank Transfer,39.34,157.36,Yes
+5304317f-af42-412f-b838-b3268e944239,Male,36,Premium,Monthly,Credit Card,45.78,320.46,No
+0e51f30d-c6a7-4e39-84b0-32ccd7c524a5,Male,28,Basic,Monthly,Debit Card,93.22,932.2,Yes
+ce177b4e-0837-48a3-9261-a7ab3aa2e4f9,Female,33,Standard,Monthly,Bank Transfer,57.67,115.34,No
+10f1bc81-448a-4a9e-a6b2-bc5b50c187fc,Female,29,Basic,Monthly,Bank Transfer,66.98,602.82,Yes
+9132b63e-f162-47e4-a9c3-49e03602f8ac,Male,65,Premium,Quarterly,Bank Transfer,89.9,1798,Yes
+366eb16f-508e-4ad7-b7c9-3acfe059a0ee,Female,53,Standard,Quarterly,PayPal,43.51,130.53,No
+e27a984d-6548-41d0-bfcd-9eb1a7cad415,Female,63,Standard,Quarterly,Debit Card,50.36,453.24,Yes
+24933b83-7577-40a9-a491-f0b2ea1fca65,Female,50,Standard,Monthly,Bank Transfer,77.18,617.44,No
+beb79919-3f22-4af8-a3be-d01d43cf2fde,Male,50,Premium,Yearly,Debit Card,33.87,474.18,No
+bf3c4c06-4343-48bc-89fa-6a688fb5d27b,Female,62,Premium,Quarterly,Bank Transfer,66.8,133.6,No
+956269f0-e5d7-4875-adad-d6c795a76d79,Male,45,Premium,Monthly,Credit Card,30.72,491.52,Yes
+ff50bde4-3825-47b8-9cab-cc97663f1c97,Male,66,Basic,Quarterly,Credit Card,35.16,210.96,No
+7e570ddf-8270-40a8-a369-b584ff5e9ff0,Male,54,Basic,Monthly,Debit Card,97,291,No
+dc713d96-0c0f-4195-817a-f08a1745d6d8,Female,38,Premium,Monthly,Bank Transfer,53.68,966.24,No
+28f49481-a0a0-4dc4-a720-9bdf1c11f735,Male,20,Standard,Quarterly,Bank Transfer,70.4,1619.2,Yes
+98ae4334-6c12-4ce8-ae34-0454cac5b68c,Male,59,Standard,Quarterly,Credit Card,86.38,777.42,No
+988c24c9-61b1-4d22-a280-1c4510435a10,Female,56,Basic,Quarterly,PayPal,47.78,860.04,No
+405cacec-8774-49a9-b7d2-1e02ff01cf99,Male,24,Basic,Monthly,Bank Transfer,68.5,959,No
+f143262f-dc5c-4eed-8da0-365bf89897b9,Female,68,Premium,Yearly,Bank Transfer,62.1,1428.3,No
+1d53434b-b881-49b9-ae27-0da702f06b90,Male,42,Standard,Yearly,Debit Card,35.79,787.38,Yes
+c0398710-8976-4334-a281-7efdae849217,Female,23,Premium,Quarterly,PayPal,21.44,21.44,No
+5715bd6f-a416-4293-84c2-e2e3444ea7c8,Female,61,Basic,Yearly,Bank Transfer,85.78,1715.6,No
+287d06ca-6f4c-469a-8b22-d3081c8eaee9,Male,57,Basic,Quarterly,Bank Transfer,74.31,1411.89,No
+b8db0672-f42d-47cc-80d4-af5974273ca3,Male,36,Standard,Yearly,Debit Card,12.28,257.88,Yes
+f8cda88b-436d-46e2-b83c-fe0be037e5ed,Male,26,Basic,Monthly,Debit Card,92.37,1385.55,Yes
+81f76d1c-2dbc-4134-830f-f46e8026695f,Female,65,Basic,Monthly,Credit Card,67.44,472.08,No
+a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f,Male,39,Basic,Yearly,PayPal,32.3,516.8,Yes
+81f631d4-a392-41a7-9777-a4774c66e0a8,Female,46,Standard,Monthly,PayPal,13.67,191.38,No
+5fb8d16c-2720-497d-b2eb-d6899be578c7,Male,29,Standard,Quarterly,Bank Transfer,82.62,330.48,Yes
+f4188f3f-8a14-4e62-a95b-4715c333e861,Female,54,Premium,Quarterly,Debit Card,95.42,381.68,Yes
+eb2263dd-87c5-421e-ac24-a3c5c754108f,Male,27,Standard,Yearly,Debit Card,55.09,275.45,No
+7d154385-52fb-443b-9954-6eb400257ad1,Female,41,Premium,Quarterly,Credit Card,88.05,1761,No
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Female,52,Basic,Monthly,Credit Card,59.11,295.55,No
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,Male,50,Standard,Yearly,Bank Transfer,34.66,415.92,Yes
+3da9c2a9-0ed4-4f1a-bd4c-bf374eb93eff,Female,68,Standard,Yearly,PayPal,16.41,131.28,No
+14296c07-f26b-4776-913e-4de2e0c53cb8,Female,43,Standard,Quarterly,PayPal,35.37,141.48,No
+d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269,Female,62,Premium,Monthly,Bank Transfer,76.16,1599.36,No
+885f6e66-c2b6-42c5-ba5d-310011b7e948,Female,27,Basic,Monthly,Bank Transfer,82.62,1404.54,No
+a8e56e0c-20de-435d-a031-d750c40db9b4,Female,35,Basic,Yearly,Bank Transfer,40.67,203.35,Yes
+2a45c2ab-8cbf-4db0-b264-accc79ac1b1e,Male,30,Premium,Monthly,PayPal,19.28,327.76,No
+9b49bd26-df57-459a-8715-a10343dac043,Female,65,Basic,Quarterly,Credit Card,90.6,1540.2,Yes
+edcd465e-3638-4821-b6e0-7cc06c52c49f,Male,58,Premium,Monthly,PayPal,96.11,1922.2,No
+b09b2a5c-badc-432a-8159-0f538a0f4efb,Male,33,Basic,Monthly,PayPal,64.22,1284.4,No
+66245bfa-4fcc-439a-b683-d2e6337ea2df,Female,40,Basic,Yearly,Credit Card,93.78,656.46,No
+5f987c71-a65e-488e-abf3-ad39fec21bbe,Female,22,Premium,Yearly,Credit Card,41.58,748.44,No
+7394988f-847f-49b4-a64d-1bcb702753a1,Male,27,Standard,Monthly,Credit Card,85.46,1196.44,No
+1064005c-3985-43cf-bf76-be1d1efa2197,Female,26,Standard,Yearly,Debit Card,23.19,115.95,Yes
+8dcdcd03-969b-4662-8562-8059568cc69b,Female,65,Basic,Monthly,Debit Card,83.15,582.05,No
+01d74256-3860-4ab6-96a4-02f23ae8cc93,Female,53,Standard,Yearly,PayPal,79.94,1758.68,No
+0f1259e0-a18f-46b6-b535-106e122c9a56,Female,43,Premium,Yearly,Debit Card,54.34,706.42,No
+080aadfb-e7c9-4b26-9141-25c63a9bedd4,Female,37,Basic,Yearly,Credit Card,76.98,230.94,No
+839fbc50-1223-4513-9496-f63cdc1110c1,Female,66,Basic,Monthly,Debit Card,49.27,591.24,No
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,Male,64,Basic,Quarterly,Credit Card,99.37,496.85,Yes
+b92da22b-21df-406f-8a0b-3c3336d8393a,Male,37,Basic,Quarterly,PayPal,66.65,933.1,Yes
+93829b43-922f-415a-a1e3-db63ef7ddc76,Male,20,Premium,Monthly,PayPal,35.29,564.64,No
+7914c120-c8dc-419f-be35-11287900f7f9,Female,41,Basic,Quarterly,Bank Transfer,68.22,545.76,No
+1825bc54-30be-445f-a835-14f2ceb81f9d,Female,45,Basic,Monthly,Bank Transfer,98.76,2172.72,Yes
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,Male,50,Basic,Monthly,Bank Transfer,34.39,447.07,No
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611,Male,23,Standard,Yearly,Bank Transfer,62.3,124.6,Yes
+a748dbcf-ac61-4e63-8dde-29a6baa4b71a,Female,67,Premium,Monthly,Credit Card,12.37,12.37,No
+0f844fef-1931-49ee-a56c-0941fbf24050,Female,49,Premium,Monthly,PayPal,63.47,1396.34,No
+ccf3a171-56dc-4907-ba6c-34ab6712303a,Male,30,Basic,Quarterly,Credit Card,47.33,47.33,Yes
+310c0c00-3fa7-4104-9bf9-0e27dc96925e,Male,23,Basic,Monthly,PayPal,77.49,232.47,No
+23e2fcb4-72d8-467d-894a-05e430b187ef,Male,54,Standard,Quarterly,PayPal,32.26,451.64,Yes
+766ecb15-474e-4c19-aef9-12766c006f61,Male,68,Basic,Monthly,Bank Transfer,30.58,519.86,No
+134c6c92-ec5b-427c-9fde-4fbf3ff350bf,Female,45,Premium,Yearly,Debit Card,54.83,1206.26,No
+db20a56e-dc81-4fe7-8eda-8bbb71710434,Male,67,Basic,Quarterly,Bank Transfer,60.48,1028.16,Yes
+a6f2f7b8-0cf3-4b58-9910-8be58ce21ea3,Male,40,Premium,Monthly,Credit Card,67.54,742.94,Yes
+03c72ba8-d605-4770-8a63-f881ffd0f9d5,Female,51,Standard,Quarterly,Debit Card,67.3,1009.5,No
+c0e9ab30-ed26-42e9-97e0-11b7f8102383,Male,51,Basic,Quarterly,Credit Card,80.53,1852.19,No
+680ac07a-2a93-4d62-bc83-5dc0d9441fa5,Male,22,Basic,Quarterly,Bank Transfer,85.79,1458.43,Yes
+dd59ba71-36b8-4481-bb3a-4e3e7c52fa17,Female,22,Standard,Quarterly,Credit Card,41.27,453.97,No
+2a25a888-0f02-4ad0-a706-7ef466aa9385,Male,68,Premium,Monthly,PayPal,21.52,236.72,Yes
+63f2ae24-fc3d-4348-808d-4127610461e3,Female,21,Basic,Yearly,Bank Transfer,52.66,947.88,No
+c8fe3ccd-c8b8-49c6-ad30-49cf43e458fc,Male,36,Basic,Monthly,Debit Card,35.07,771.54,Yes
+b253d218-6c4a-47ea-8906-17f2747b6dba,Male,22,Basic,Quarterly,Debit Card,42.78,598.92,No
+c88a618e-fed4-457d-bb02-6576f512c4c3,Male,26,Standard,Monthly,PayPal,66.51,997.65,No
+7c967f79-b7e9-4aca-a970-65e18e46d534,Male,65,Basic,Monthly,Debit Card,88.15,705.2,No
+37bb3eec-4bf5-4b52-b09d-258c27a0c3d7,Male,69,Premium,Yearly,PayPal,93.16,1304.24,No
+bc594585-9445-48c0-8ef8-c2d6f7fd5646,Male,31,Standard,Monthly,Debit Card,13.3,252.7,No
+504867ba-bf7b-439b-8f9a-ea4b8acd4e10,Male,40,Standard,Yearly,PayPal,12.74,229.32,No
+7a0ecfea-958c-49ba-8cd6-20c20ea2622b,Male,68,Premium,Monthly,PayPal,43.96,439.6,No
+87f7e1fb-da4b-49ca-ab5c-f46780bacd64,Male,56,Standard,Quarterly,Debit Card,20.78,353.26,No
+82010c62-f5f5-4b22-8e8f-a8e0284d82e5,Male,21,Standard,Yearly,Credit Card,54.86,822.9,No
+118a9d29-2f92-4996-99f1-95d014822f53,Female,51,Premium,Monthly,Bank Transfer,21.48,193.32,No
+dca02eec-acda-4acc-9165-e21098543881,Female,43,Standard,Yearly,Bank Transfer,54.84,329.04,No
+f10c718b-1eb0-438a-a75d-d5af3c365296,Male,39,Basic,Quarterly,Debit Card,32.14,128.56,No
+94340a03-3f07-4814-91d6-3f78e3e9de99,Female,47,Premium,Yearly,Credit Card,17.22,327.18,Yes
+14fcdd54-9e8f-4965-8a2c-827e98326856,Male,53,Premium,Quarterly,Debit Card,61.84,680.24,No
+90b2b633-956b-4c0c-a849-9b926b5252e3,Female,66,Standard,Quarterly,PayPal,83.88,167.76,No
+42c18a62-ef48-48d5-90fd-9d3f85d51695,Female,43,Premium,Monthly,Bank Transfer,28.46,626.12,No
+506e5a9a-b758-488d-ab73-295b344a54b8,Female,50,Basic,Yearly,Credit Card,64.96,389.76,No
+21813d25-6552-48a6-83ff-50113d1a85dd,Male,53,Basic,Yearly,PayPal,14.66,263.88,No
+750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,Male,40,Standard,Quarterly,Credit Card,71.61,1432.2,Yes
+ef8c485b-c07a-40f2-add4-253b50f0fd0a,Male,26,Basic,Monthly,PayPal,52.58,315.48,No
+9f044aed-7552-4327-8262-7f7312922f83,Female,48,Basic,Monthly,Debit Card,77.14,1388.52,Yes
+19985f15-ff00-4d4d-9020-59e4ff9ab5c2,Female,28,Basic,Quarterly,Bank Transfer,44.13,44.13,No
+8181a8cc-3691-47eb-89a2-688b12c136e0,Female,46,Premium,Monthly,Credit Card,28.15,84.45,Yes
+5958a499-eeea-463e-a1e8-ac6843e42caf,Male,36,Premium,Quarterly,Debit Card,91.71,1192.23,No
+3e896c64-e117-4ac3-919c-4ea3e1805081,Female,57,Premium,Quarterly,Bank Transfer,51.64,309.84,No
+702cdd20-2862-48b8-88f4-ef125e9953d2,Male,32,Basic,Monthly,Credit Card,90.96,2092.08,No
+4d71c366-b41b-4143-8b10-550cd5704f32,Male,57,Premium,Yearly,PayPal,48.84,146.52,No
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec,Female,59,Premium,Yearly,Credit Card,54.59,382.13,No
+aaf91531-0200-41f0-8768-a84fa76afde6,Male,55,Basic,Monthly,Credit Card,32.36,744.28,Yes
+ee87905e-4ca4-45ea-8dfa-6a56d12dbc9a,Female,39,Standard,Quarterly,Credit Card,88.91,88.91,Yes
+e0ccedc5-f05d-476e-9a84-a51aa9d3d7c7,Male,48,Premium,Monthly,Bank Transfer,64.36,965.4,No
+e3c43657-1d8c-4bac-83b4-09ef2260e70f,Male,46,Premium,Monthly,Debit Card,11.1,210.9,No
+27cb6f2a-8da0-4097-be0f-051b1b66b5a9,Female,43,Premium,Yearly,Credit Card,84.41,844.1,No
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Female,25,Premium,Yearly,Debit Card,95.26,1143.12,No
+afffcfd2-341e-440b-97c7-00aab7b56ea7,Female,35,Basic,Monthly,PayPal,75.35,828.85,No
+81627cf1-4394-42e6-9a58-7e8aa25d6b29,Female,65,Basic,Monthly,Bank Transfer,68.62,1166.54,No
+e87d1c78-e7c4-41c7-8049-7b717d106c60,Female,26,Standard,Yearly,Credit Card,19.38,174.42,No
+a2607723-17a0-4f49-8d01-280fd89a40c0,Male,18,Standard,Monthly,Credit Card,24.9,99.6,Yes
+0b49452d-46d4-43f3-9450-281c6c6f7633,Male,18,Premium,Quarterly,PayPal,30.47,457.05,No
+217d65a0-c568-41cd-9563-f61600e85ece,Male,26,Standard,Monthly,Credit Card,64.33,192.99,No
+295d6fbf-430f-401d-bad4-09e2a319dcb4,Male,43,Premium,Quarterly,Debit Card,51.91,103.82,No
+b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f,Female,60,Premium,Yearly,PayPal,32.34,226.38,Yes
+1ca3c448-0279-46a6-8f97-97b06d7ce3c9,Male,41,Basic,Monthly,Credit Card,62.25,1369.5,Yes
+b0e6a969-e213-42b0-b1ee-dba313432e61,Female,38,Basic,Yearly,Credit Card,96.5,1640.5,No
+093923de-8bab-4e3b-a628-6bfbe767dcea,Female,45,Premium,Monthly,Bank Transfer,55.2,55.2,No
+8d7248e2-951f-48d0-9e84-f058d5a804eb,Female,40,Premium,Yearly,Bank Transfer,90.82,1543.94,Yes
+0ab54bde-20a0-4502-ae06-809725e97977,Female,33,Premium,Quarterly,Credit Card,79.8,1197,No
+eededb07-e623-4689-9d59-cd2a4eea04e7,Female,45,Basic,Quarterly,Debit Card,60.37,241.48,Yes
+0a368ce7-dc57-4131-b8e1-daa7cbceabde,Male,56,Premium,Quarterly,Debit Card,90.77,181.54,No
+ae9bec36-35c7-436c-9b99-62c6e61fecc0,Male,45,Standard,Yearly,Credit Card,46.72,1074.56,Yes
+5a8aaeca-1a50-4ec3-aabc-25fa3fe12e47,Male,25,Standard,Monthly,PayPal,61.25,1163.75,No
+dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,Male,25,Standard,Yearly,Bank Transfer,98.99,1385.86,No
+bfddc3d9-9ee3-4c2a-b94d-62046808593f,Female,69,Basic,Quarterly,Credit Card,46.58,1071.34,No
+3c9ad14c-ee0c-4eb5-acfe-db992790cebd,Male,27,Premium,Monthly,PayPal,86.33,1381.28,Yes
+ccc56569-f9e8-4369-a999-b735dd56cc94,Female,46,Standard,Quarterly,Credit Card,83.57,1671.4,No
+698c206f-e1a4-4e10-ad53-4dd0cf8ebc5a,Male,19,Premium,Yearly,PayPal,34.13,170.65,No
+ecab3301-bc8f-4d29-adea-94930658663a,Female,47,Basic,Quarterly,Credit Card,36.5,730,No
+696608aa-ee49-4329-884a-7b28550a1b46,Female,41,Basic,Quarterly,Debit Card,53.87,754.18,No
+bc2cbb0d-dd33-4cc7-ab7f-089acd5f4822,Female,34,Standard,Yearly,Credit Card,34.18,273.44,No
+28c13091-444d-410b-bf87-e362cf8d446a,Male,56,Basic,Quarterly,Debit Card,85.14,340.56,Yes
+61ee411a-1bac-47a7-b386-f7a4c991603f,Male,62,Standard,Yearly,Credit Card,11.66,209.88,No
+787f2425-dbcc-4477-89e9-db0adf465290,Female,53,Basic,Quarterly,Debit Card,59.88,359.28,No
+eb1fa9f2-d10b-41d0-b317-347038f16a81,Male,59,Standard,Monthly,PayPal,91,546,No
+d20eac17-4e20-4d1a-9983-36e375d66ed4,Female,29,Basic,Monthly,Credit Card,25.78,335.14,No
+39118497-3a43-42ba-9f0f-06cbcb9bc326,Male,45,Standard,Quarterly,Debit Card,14.23,313.06,No
+6601ddd0-3170-4437-a8f7-ef5a060edf5b,Male,53,Premium,Quarterly,Credit Card,45.04,360.32,No
+11c58ef0-dd46-4c09-8752-87aa5408f9ac,Female,66,Premium,Yearly,Bank Transfer,60.98,121.96,No
+59e4b671-4774-4c58-85f8-bc16f7860b50,Female,39,Basic,Monthly,Debit Card,12.81,256.2,Yes
+adf4e62d-6651-429e-8268-690ba43825b5,Female,60,Basic,Quarterly,PayPal,63.72,127.44,No
+54c63cd8-8945-4f27-97fa-2d8dfb2ca025,Female,26,Basic,Monthly,Credit Card,54.59,600.49,No
+e08596db-1d87-4966-8710-d430f071d879,Male,56,Premium,Yearly,Debit Card,81.95,983.4,No
+94a1875d-2db6-4edb-82de-ffccf86c2ca2,Female,51,Premium,Monthly,Bank Transfer,82.67,1405.39,Yes
+09cb3942-43f5-4a85-bbc9-f87af668a617,Female,66,Premium,Quarterly,Bank Transfer,88.57,708.56,No
+587ef344-6f3f-420c-98b8-e4cc1bc044fc,Male,40,Basic,Quarterly,Bank Transfer,86.43,1555.74,No
+6fb78271-504d-481f-8953-5b63ba81edd9,Male,43,Basic,Monthly,Debit Card,13.55,135.5,No
+1d9af659-82ec-4f2d-bbf6-e16f9b3080d5,Male,40,Standard,Monthly,Debit Card,92.39,1293.46,Yes
+30a900ad-939b-462d-a645-f129629c2ae3,Male,26,Premium,Quarterly,PayPal,94.98,1709.64,No
+6fa17735-b572-43d0-8b5c-ea6a41357e8c,Female,56,Premium,Quarterly,PayPal,84.6,1438.2,No
+ce777f00-ecf2-4e76-8519-7ff4006ed6e3,Female,52,Basic,Quarterly,PayPal,72.67,581.36,No
+f0b5156b-b82c-4074-afd5-dea589d7fd6c,Male,61,Premium,Yearly,Bank Transfer,58.55,1288.1,No
+3270e4fa-abae-4f43-bcae-8081bdf070aa,Female,50,Basic,Quarterly,Bank Transfer,30.97,712.31,No
+f2e9702d-11e9-4daa-ae69-81a35d3d9e56,Female,47,Premium,Yearly,Credit Card,57.6,172.8,Yes
+9f871ce7-5487-4d4f-abb7-a385aa0b7b14,Female,69,Basic,Quarterly,Credit Card,46.17,969.57,No
+1fe771d6-d917-4793-a9d3-c2e6505cc686,Female,61,Premium,Monthly,Debit Card,18.25,127.75,No
+81d2c7de-4ce1-4b90-a669-7833b841d0a0,Male,47,Basic,Yearly,Credit Card,41.92,754.56,Yes
+5380b904-688c-4015-aab9-7e494f2d4796,Female,54,Basic,Monthly,Credit Card,98.9,890.1,Yes
+8dedf9fb-4bb0-4f20-b27c-40266703b636,Male,41,Premium,Quarterly,Credit Card,80.77,888.47,No
+aa38d0a1-6ba2-4efe-b11c-6eb62095eef6,Male,63,Premium,Quarterly,Credit Card,99.03,693.21,No
+bf85bf0e-ad64-456c-a10f-aa3ff0bbac67,Male,25,Basic,Yearly,Debit Card,64.7,841.1,Yes
+91b0e1d9-9d92-42af-ac8d-0e44e71e43a6,Male,51,Basic,Quarterly,Credit Card,26.78,80.34,No
+d56f0350-8c45-4ce2-a7f4-8ad54d0b0d1a,Male,22,Standard,Yearly,PayPal,89.54,268.62,No
+35ce8841-4973-4d6c-8dca-bfb7001a9a8b,Male,59,Premium,Quarterly,Debit Card,72.64,217.92,No
+9b4e2c24-9479-41e6-8927-7d9b6e0d2648,Female,30,Basic,Yearly,Credit Card,63.36,887.04,No
+7118e364-7709-4749-927e-ecfaa79ac9aa,Male,58,Premium,Yearly,Bank Transfer,52.9,158.7,No
+82dc4c8e-36b5-429a-acf5-e81e71316269,Female,59,Basic,Yearly,Bank Transfer,93.84,1032.24,Yes
+f5b78cc7-e6b3-4944-8b32-3e357922bac2,Female,32,Standard,Yearly,Credit Card,14.39,259.02,Yes
+a8aa7158-2b70-4525-bc67-f831cbc84759,Female,65,Basic,Monthly,Credit Card,86.61,692.88,No
+a9f25336-83f4-49a9-88a6-39d015b52908,Female,46,Premium,Quarterly,PayPal,41.3,82.6,No
+17e8392a-55ce-45db-9e87-e04ca2086977,Male,62,Basic,Quarterly,Bank Transfer,81.77,654.16,Yes
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,Male,65,Basic,Monthly,PayPal,31.48,661.08,No
+ce7ae7f6-3982-4cff-8f77-a665ac3c5640,Male,44,Standard,Yearly,Credit Card,89.28,1696.32,No
+0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8,Female,27,Premium,Monthly,Debit Card,91.78,1652.04,No
+9c7c7377-79a2-4903-bbe3-3b243eae0032,Female,30,Basic,Yearly,Debit Card,35.83,501.62,No
+74962764-12a4-4ef0-84bb-b7a9d98868dd,Male,34,Premium,Quarterly,Bank Transfer,10.82,140.66,No
+935f2b0a-a138-4ddc-a2d9-de5d6a18ce4c,Female,36,Standard,Yearly,Debit Card,48.9,97.8,No
+624c69b6-b244-45a7-b7e5-848131c681ec,Female,32,Standard,Monthly,Credit Card,80.99,1619.8,No
+25c73c44-3e75-43b4-a64f-a6637e8f8095,Female,21,Premium,Monthly,Bank Transfer,16.06,160.6,No
+e4855aa1-016b-4287-b008-05cca7f36ae9,Female,43,Premium,Quarterly,Debit Card,99.11,1486.65,No
+e2add909-c521-4f2d-9c45-d539c03f3538,Female,52,Basic,Yearly,Credit Card,11.99,71.94,No
+3805f907-6cd6-4193-8746-8f591b494e15,Female,68,Premium,Quarterly,PayPal,50.13,701.82,No
+b227462c-f53d-4330-8dda-24ba2d06e8cf,Female,34,Premium,Monthly,Credit Card,24.73,568.79,No
+8eb22579-0cdb-4ca4-b6ec-bdd68498e113,Male,69,Standard,Yearly,Debit Card,30.7,337.7,Yes
+1f115b76-d92c-4227-aadf-50853fcb7546,Male,61,Basic,Monthly,PayPal,47.78,955.6,No
+76f2dbfe-cd29-436f-a222-82e174daaebf,Male,22,Premium,Yearly,Credit Card,38.87,233.22,Yes
+8f15ba58-fce6-4504-87f8-424daae65fc1,Male,52,Basic,Monthly,Bank Transfer,43.17,647.55,No
+c1581092-f335-4ba3-913a-7052986f9025,Male,25,Standard,Monthly,Credit Card,18.2,145.6,No
+d0a44432-9cd6-4852-b14c-7df4e4347d51,Female,67,Premium,Yearly,Credit Card,21.81,458.01,No
+6d3ee1dc-8139-4443-a45b-712eb8225688,Female,20,Standard,Yearly,Credit Card,10.11,70.77,Yes
+722764e6-8c41-461b-a827-a1b9d4a02e53,Female,37,Basic,Quarterly,Bank Transfer,54.24,1193.28,No
+dc8aee30-be60-43f7-a8be-9288e5af6e39,Male,19,Premium,Monthly,Credit Card,11.05,198.9,No
+c074718e-425a-409f-b337-c59979844388,Female,63,Premium,Yearly,Debit Card,36.25,471.25,No
+46fde062-a33d-47af-9701-410d3f4b1a70,Female,55,Basic,Yearly,Debit Card,77.42,696.78,Yes
+7c0e8cd8-8573-4793-8715-b2b9c40c5d91,Male,63,Premium,Quarterly,Debit Card,28.93,28.93,No
+709b7d97-464c-44af-bd3f-3799a07295e9,Female,67,Basic,Quarterly,Credit Card,17.91,232.83,Yes
+3c07c574-4925-4af1-b6aa-e05b13d5f2f7,Male,69,Standard,Quarterly,PayPal,21.94,153.58,Yes
+e49d681d-51d8-4c64-95fa-1ab8458f1f19,Female,67,Premium,Quarterly,Debit Card,25.07,426.19,No
+269cd696-236c-4b87-94a0-bccb8a476a87,Male,20,Premium,Quarterly,Credit Card,94.26,659.82,No
+271e3ee2-b1a6-41f1-a20e-99d33b33f3d8,Male,67,Standard,Quarterly,Bank Transfer,40.55,283.85,No
+6a34c854-1071-4d51-b6c5-9dacb4d7e28e,Female,21,Standard,Quarterly,Debit Card,50.71,152.13,Yes
+7746d0ba-8ae8-405b-94b4-a48268586eba,Female,59,Standard,Yearly,Debit Card,15.43,354.89,No
+d5385b0e-34f3-493c-8ff0-a55c6a702e2f,Male,62,Premium,Quarterly,PayPal,97.83,391.32,No
+c51155ff-e7a3-4e81-a3b4-c08b6b8e869f,Male,49,Premium,Quarterly,Debit Card,74.73,1644.06,No
+05000bc6-b20d-4b6e-b231-1f1795863a76,Female,58,Premium,Yearly,Bank Transfer,27.96,83.88,Yes
+9360715f-c3fe-4183-a172-b725db52ca58,Female,32,Basic,Yearly,Bank Transfer,25.68,539.28,No
+f1578470-0182-47c4-ba1b-58066160a6b4,Male,41,Basic,Quarterly,Bank Transfer,55.44,997.92,No
+63d62a39-c0e3-4efd-8c71-e0fe5a0cdd7c,Female,58,Standard,Monthly,Debit Card,53.8,107.6,No
+d5f25073-f414-42b1-a442-9ebbda7b9095,Female,23,Premium,Quarterly,PayPal,63.31,1392.82,No
+bc10fa52-bf5d-4fdf-89c8-d2ab6b44fa8d,Male,62,Standard,Monthly,PayPal,31.22,249.76,No
+e5d6f6e6-9a6e-42f5-8cc4-29038bcf53a1,Female,40,Standard,Quarterly,Debit Card,56.14,280.7,No
+45df16b6-382c-443f-bcfc-9b793875394c,Male,58,Standard,Quarterly,Bank Transfer,46.45,650.3,No
+638c254c-076e-4bba-bc53-08bf6f92f25e,Male,37,Standard,Yearly,Debit Card,68.69,137.38,No
+cc530e36-addc-4e13-ab3b-4d37560c95ee,Male,18,Basic,Yearly,PayPal,31.12,311.2,Yes
+d72b6108-2a40-4f12-b963-f37f67814c1f,Female,33,Standard,Monthly,Debit Card,70.25,632.25,No
+fb10987f-20ac-4703-ab67-146a77a6e17c,Female,25,Premium,Monthly,Credit Card,25.03,500.6,No
+e82c7d7b-06e7-45f9-88bc-539c9f4c3b79,Male,54,Premium,Monthly,Bank Transfer,52.72,896.24,No
+a9ba5a27-907b-4e36-9786-48f864de82e6,Female,45,Premium,Yearly,Debit Card,28.53,570.6,Yes
+6db99102-a48b-4dbe-957d-94a106f028ff,Female,26,Premium,Monthly,Bank Transfer,14.65,14.65,Yes
+2e85cb21-7631-4e9d-9de9-f86322bd3388,Female,54,Basic,Yearly,Credit Card,19.3,366.7,Yes
+53cd6268-610c-4373-8299-9aa40cdf742b,Female,37,Basic,Quarterly,Bank Transfer,71.74,143.48,No
+56666f9f-53ac-4ab9-b467-2cd9362f5e5c,Male,56,Premium,Yearly,PayPal,54,648,No
+473bd358-610e-4a64-a130-1617c2dff335,Male,62,Standard,Quarterly,Bank Transfer,70.61,1270.98,Yes
+6bebac31-d4f8-4d72-b382-1cfdc083b73a,Male,25,Basic,Quarterly,Credit Card,96.7,1450.5,No
+78660765-14f7-4e8d-95bc-b8d04094dded,Male,43,Premium,Quarterly,Debit Card,54.75,930.75,No
+0d557b61-8a17-4dfe-bfc0-0dc804f64d86,Male,57,Basic,Yearly,Bank Transfer,81.6,326.4,No
+39669fa7-5997-4043-b3b1-025bfff9f585,Male,48,Standard,Monthly,Bank Transfer,68.61,137.22,No
+f510ab53-c7fe-439f-9190-f938a66fd7f7,Female,26,Basic,Monthly,Credit Card,88.37,795.33,Yes
+07f194f9-c115-4d6d-8a4e-5b70a6d964a3,Male,58,Premium,Quarterly,Credit Card,78.87,315.48,No
+d6d7b3b8-3309-4d35-bf4d-f561f319c125,Female,51,Standard,Monthly,Credit Card,38.55,501.15,No
+3d114802-2702-478b-9f0f-da8d05379ff6,Female,24,Basic,Monthly,PayPal,66.72,467.04,No
+1d48a071-ab61-47b1-b93b-4c3220500494,Male,46,Basic,Monthly,Credit Card,59.11,177.33,Yes
+770c7798-37cc-463b-b2a0-345990604f62,Female,28,Premium,Quarterly,Debit Card,65.75,920.5,No
+5e6fea07-c453-4f1d-8199-2fdfb31022f0,Male,43,Standard,Quarterly,Bank Transfer,12.31,147.72,Yes
+f6b751f7-9b74-4245-9b1b-c8952af43ab7,Female,54,Premium,Yearly,PayPal,78.84,473.04,No
+c71d5e60-1d52-46ab-b7e6-427cbf780e3f,Female,60,Basic,Monthly,PayPal,48.78,780.48,No
+4fa03f26-f6f7-40cc-a9ec-8e49d1bdb8c0,Female,32,Basic,Yearly,PayPal,15.42,323.82,No
+edcb8cb6-0692-4c63-9424-aed51bac5c15,Male,51,Standard,Monthly,Bank Transfer,33.11,662.2,No
+e87466d7-ad66-41bd-9367-6a024fdc6e1b,Male,64,Premium,Quarterly,Bank Transfer,74.59,149.18,Yes
+f1043785-658b-4523-a014-1de9f54ad0a2,Female,43,Basic,Quarterly,PayPal,21.09,253.08,Yes
+9793b9b4-1374-4146-b2c5-bd89b70b3420,Male,48,Premium,Yearly,Bank Transfer,81.41,814.1,No
+3e2b6091-a092-452a-94a0-57a7b0cc1b3b,Female,21,Standard,Yearly,Debit Card,59.52,773.76,No
+4d3485c5-c5c1-4eb4-b27b-3d901a16342c,Male,30,Premium,Quarterly,Debit Card,56.37,507.33,No
+ce3714af-99b4-4350-af2b-99b4d9acd158,Male,27,Standard,Monthly,Credit Card,91.53,1464.48,No
+90e0f4a0-fbdd-4933-8bd5-8bf61efd76e9,Male,54,Standard,Yearly,Bank Transfer,48.14,481.4,No
+8861fe18-58e2-4888-8a83-81bec85aca46,Male,53,Standard,Monthly,PayPal,62.79,941.85,Yes
+11a72609-5edd-4bbf-a959-76636daa2e68,Female,51,Basic,Yearly,Credit Card,18.61,297.76,No
+033d2bce-575a-4d2c-a5c5-650c8186a576,Male,45,Premium,Yearly,Debit Card,33.12,430.56,No
+7d7ddbed-d284-476c-ab88-f83dd97dc9cd,Female,42,Standard,Yearly,PayPal,72.56,217.68,No
+5cb85aed-f5f6-4c97-aefb-63b11b049863,Male,56,Basic,Monthly,PayPal,99.21,1388.94,Yes
+75b17a55-d426-4982-a43e-4288a2b5b498,Female,55,Standard,Yearly,Credit Card,17.15,137.2,No
+2d174fc9-6f7c-45ea-a72a-6d8eb5122df8,Female,20,Basic,Monthly,PayPal,40.92,286.44,Yes
+a6846099-f729-4951-8591-31d2bbda0242,Male,19,Basic,Yearly,Bank Transfer,58.6,351.6,No
+eb6c1016-cee6-44d0-9dac-6e8345241ea6,Male,61,Basic,Quarterly,PayPal,27.13,54.26,No
+7701f7bb-7bc6-4e1f-864e-e6e389c5b31a,Female,55,Basic,Yearly,Debit Card,50.17,1003.4,Yes
+97ac6aa8-bb24-48a3-9363-57b66f81cf4f,Female,53,Basic,Monthly,Credit Card,72.1,1658.3,No
+3ed8c56c-da09-4fa0-9282-8d8044b591f7,Female,47,Basic,Yearly,Bank Transfer,10.11,161.76,No
+4767d76c-162f-4a24-af43-613cd4aac9a3,Female,20,Standard,Monthly,PayPal,45.94,367.52,Yes
+c01f36bf-3e6d-458b-b367-c28de1b294de,Female,57,Basic,Monthly,Debit Card,56.89,341.34,Yes
+ab0e664e-9c3e-42d5-91e1-aa9676f72255,Female,56,Basic,Monthly,Bank Transfer,55.62,1112.4,No
+7e8adee7-0758-4201-961e-16d16105716b,Female,53,Basic,Yearly,Debit Card,40.75,366.75,Yes
+7cd0129d-2e8d-4e87-9334-20e6d9d80b8d,Male,26,Basic,Yearly,PayPal,45.73,1051.79,No
+4223623b-cc3e-4dde-9ad5-cf06364d7c87,Female,23,Premium,Quarterly,PayPal,61.71,308.55,No
+989d9d4a-e15c-4666-8797-b2c957207246,Female,64,Basic,Quarterly,Debit Card,83.57,250.71,No
+8e485223-46b9-4991-a14e-b70db380c73a,Female,47,Standard,Quarterly,PayPal,81.1,1622,No
+30e912f2-f2b4-4abf-8441-aefd0299436a,Male,38,Premium,Quarterly,PayPal,72.55,1305.9,No
+680bac63-b856-4035-bdc9-829015eabb27,Female,27,Basic,Quarterly,Credit Card,53.14,53.14,No
+3d85de89-c217-4429-8e20-07247d137018,Female,18,Standard,Quarterly,Debit Card,25.74,77.22,No
+b63b4dc3-a559-4463-b9e1-3ceab0cbc61f,Female,42,Basic,Monthly,Debit Card,16.14,32.28,No
+046a0df5-cafd-4613-b2bb-912d7da67785,Male,21,Basic,Monthly,PayPal,55.55,999.9,Yes
+6786d506-38ba-4abc-8b53-05e517d2582e,Male,23,Basic,Yearly,Debit Card,64.23,1477.29,Yes
+a9f948b2-4e63-44bb-be49-3f43b118f68d,Male,22,Premium,Quarterly,Debit Card,29.06,319.66,No
+8db06746-7927-4973-9e78-1fd794e0d3ba,Male,32,Basic,Yearly,PayPal,25.36,532.56,Yes
+ff233d5f-6ced-415d-9800-7c0287ea7ff5,Female,63,Premium,Yearly,Bank Transfer,72.25,72.25,No
+5a104129-54ae-4d1b-8ce6-424dbef59fe6,Male,57,Basic,Monthly,PayPal,29.87,597.4,No
+4e7ed827-455a-4762-b428-a656b3ee4d3b,Female,56,Standard,Yearly,Credit Card,89.79,269.37,No
+b8a6171f-1ee3-4dc4-bb04-8a8b405bfdc9,Female,39,Standard,Yearly,Credit Card,44.84,224.2,Yes
+be2d740a-1e9b-43bc-90c7-c006314d3441,Female,44,Basic,Quarterly,Debit Card,33.38,333.8,No
+b0ae8f08-c31e-4bbc-b36c-b62b892e6161,Female,56,Basic,Monthly,Credit Card,11.09,199.62,No
+bd1531c8-3764-4bda-b108-d4482f65fafa,Male,35,Basic,Monthly,Bank Transfer,53.91,161.73,Yes
+96ef2ad6-b97e-4703-86c8-adfe7bf47042,Male,38,Premium,Monthly,Debit Card,21.45,42.9,No
+98c7472a-864e-4a13-829c-fc0cfa02eaec,Female,35,Premium,Monthly,Credit Card,45.5,273,No
+d52721e7-19bc-443e-bb02-bebb48729a4d,Female,30,Basic,Monthly,Bank Transfer,80.82,727.38,No
+5c62b3a2-3a3c-463e-8bd6-cee631b1b099,Female,65,Basic,Monthly,Debit Card,93.73,749.84,No
+b540b30e-039f-4a25-8d61-68bd2defe193,Male,51,Premium,Quarterly,Bank Transfer,30.43,517.31,Yes
+0ba6eab9-4639-447b-a067-bdac88bd13d1,Female,62,Premium,Monthly,Bank Transfer,98.94,2275.62,No
+4ac9778d-8da8-4ee4-8df5-6ac6f96b648a,Male,25,Basic,Yearly,PayPal,69.31,1316.89,Yes
+a34b6cf6-2053-4a42-b1af-db65b289f224,Female,34,Basic,Monthly,Bank Transfer,41.79,585.06,No
+1a432f0a-7daa-49f0-80b6-fce2de53790a,Female,32,Premium,Yearly,PayPal,26.67,293.37,No
+48ca7651-92f5-4f7b-8323-d342df6a8f93,Male,47,Standard,Quarterly,Debit Card,17.44,279.04,No
+5738811d-70c2-403f-ba8d-03aa782a65e0,Male,25,Basic,Monthly,Debit Card,70.06,210.18,Yes
+40a26c60-0d27-4659-b72a-da9b2f32751e,Female,21,Standard,Monthly,Credit Card,96.38,2216.74,Yes
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,Female,27,Basic,Yearly,Bank Transfer,20.26,263.38,No
+7de31a51-6694-4343-90ba-58e3d2762bdc,Male,33,Standard,Yearly,Debit Card,40.44,323.52,No
+afbb411a-a123-4a8c-93b7-a88612f70c97,Male,42,Premium,Quarterly,Bank Transfer,44.98,809.64,No
+cfa701cd-2631-400b-a6d7-94d30db95301,Female,37,Basic,Yearly,Debit Card,11.14,233.94,Yes
+15ce6a66-4dc8-4a1e-b2f9-e5fa90164161,Female,47,Premium,Yearly,Credit Card,33.26,498.9,Yes
+8edddfcd-1e52-4770-bf89-7142fe716b14,Male,38,Standard,Quarterly,Bank Transfer,60.2,1384.6,No
+989bc4da-9b37-422b-aa8a-616fc3b290d0,Male,39,Standard,Yearly,Credit Card,94.36,1226.68,Yes
+c693da11-39c6-41ca-9e50-aa42ca6dfda1,Male,38,Premium,Yearly,Debit Card,29.22,555.18,Yes
+e893be3d-7354-4a6f-a160-745985c7504b,Female,30,Standard,Yearly,Credit Card,63.13,189.39,Yes
+96a9954f-dc33-41f9-8c1f-55ab715629ee,Male,40,Basic,Quarterly,PayPal,61.95,309.75,Yes
+9191b363-4e2d-4645-adc7-cac7fd72b050,Female,33,Basic,Monthly,PayPal,99.26,794.08,Yes
+f5c9b047-9c10-4572-8f6b-40d09efba58b,Female,59,Standard,Yearly,Credit Card,59.96,839.44,No
+c342bd2b-f295-456e-9967-5f06bd767e35,Male,19,Basic,Monthly,Credit Card,59.88,1317.36,No
+43bfd931-3605-4f54-a021-c0ca3531968d,Female,29,Basic,Quarterly,Debit Card,77.46,1626.66,No
+3d67cde9-2834-44c0-94c8-b3b4a911d192,Male,33,Premium,Yearly,PayPal,52.33,994.27,No
+2812859a-1337-439e-8d4f-5d272c7f0b79,Female,64,Basic,Quarterly,Bank Transfer,29.55,147.75,No
+b07aa066-7354-45ea-a894-9b8d00af5b3a,Female,57,Premium,Monthly,Debit Card,65.76,263.04,Yes
+085b15fb-4a8f-4810-b84c-2f29980402a2,Male,37,Basic,Yearly,PayPal,53.29,746.06,No
+48603b32-b4fb-4eb9-89c1-3de73b4206c5,Male,33,Standard,Yearly,Bank Transfer,60.46,120.92,No
+1238d630-743b-45a2-9c0f-2fcfb3f6fe0d,Male,48,Premium,Monthly,PayPal,16.94,372.68,No
+43b9da13-ec85-4f37-bbc1-a987aff8754d,Female,47,Standard,Quarterly,Credit Card,80.98,1538.62,No
+96fc734d-a003-4d28-8a8f-3653c9af18f8,Female,47,Premium,Monthly,PayPal,31.23,624.6,Yes
+32a447b2-ef04-457d-8dcc-c33aa9434aa0,Female,64,Premium,Monthly,Bank Transfer,36.95,36.95,No
+398d1ca6-8b68-40b5-9d61-fac36cd5e859,Female,37,Premium,Yearly,PayPal,46.89,656.46,No
+44007d5a-e88d-4719-a624-2b40a5cb63a2,Male,26,Standard,Monthly,Credit Card,60.9,609,No
+0f44704f-1247-4a4e-a469-98e8d39e198b,Male,60,Basic,Quarterly,Debit Card,62.78,376.68,No
+9854ce4e-4ebf-45c3-8ae9-b4a72a79ea68,Male,68,Basic,Yearly,Debit Card,86.75,1648.25,No
+ebd34616-91b7-4d8e-9301-6989bfbbb17f,Female,54,Basic,Monthly,Debit Card,94.36,377.44,Yes
+77fc9703-1fd5-4423-b06c-5c5649e2623d,Female,56,Premium,Quarterly,PayPal,49.32,197.28,No
+670acc5c-b321-4f21-8dd8-eb85b04d3376,Female,63,Basic,Yearly,Bank Transfer,69.13,276.52,Yes
+8a3c3b5e-801e-41da-85b1-ed25f1533ae8,Female,61,Standard,Quarterly,Debit Card,33.55,100.65,Yes
+9918ee46-1497-4658-b010-f7197e695d0d,Female,27,Standard,Yearly,Debit Card,86.03,516.18,Yes
+bc0a6a5d-6e99-4e3e-a3b1-37fc0a3450fc,Male,53,Premium,Quarterly,Debit Card,60.58,1272.18,No
+069f14f1-4018-4c6e-9a8c-fa3c5283aac7,Male,44,Premium,Quarterly,PayPal,31.31,344.41,No
+ac9ed156-f63f-4e41-ba9a-ca5e176132ed,Male,65,Premium,Monthly,Debit Card,84.51,1183.14,No
+964db03f-9340-4fad-9c4a-d56bd6016237,Female,38,Standard,Monthly,PayPal,75.26,376.3,No
+c3c75611-ffe3-4a49-854f-92fff366bad4,Male,68,Basic,Monthly,Bank Transfer,97.06,873.54,Yes
+9384ec2b-44fe-4cae-9248-a9a7ac1aa554,Male,21,Premium,Quarterly,Credit Card,86.56,1990.88,No
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,Female,51,Standard,Yearly,Credit Card,81.25,1381.25,No
+7135f221-a6c9-437f-84da-d06a7872bdeb,Female,63,Standard,Quarterly,Credit Card,48.58,242.9,No
+ff37d19c-2e76-428b-8735-44f9ea83bf00,Female,19,Standard,Quarterly,Bank Transfer,47.06,329.42,No
+d0725b5c-a281-4044-af96-288295d82980,Female,64,Standard,Yearly,Debit Card,98.03,1862.57,No
+785299f4-175b-498d-b814-01027de1bdfe,Female,49,Premium,Monthly,Bank Transfer,59.04,236.16,No
+5230dfbd-5553-42fe-a889-803e5913f9d3,Female,32,Basic,Yearly,Debit Card,24.55,343.7,Yes
+292bd156-db94-4570-9ac7-0ec0ab8ddeb4,Male,57,Standard,Quarterly,Credit Card,12.45,37.35,No
+7ed70ed7-b194-490b-a961-929e546e035a,Male,59,Premium,Quarterly,PayPal,69.11,1243.98,Yes
+668409e3-f1f8-443e-a99f-131849c8a43f,Male,68,Premium,Quarterly,Bank Transfer,35.84,322.56,No
+0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c,Male,25,Premium,Monthly,PayPal,27.63,386.82,No
+409d3602-5084-4242-968b-1625746f7891,Female,37,Standard,Quarterly,PayPal,65.21,847.73,No
+c5c5b37a-f85e-46a1-9dad-09b252c21221,Female,60,Standard,Monthly,Bank Transfer,28.18,225.44,No
+d32e6dcd-83bc-4478-9d6a-c7b86778043b,Female,65,Premium,Monthly,Bank Transfer,81.87,1146.18,Yes
+de8ede0b-a85c-4e4a-804b-6fabfcf56188,Female,26,Premium,Quarterly,PayPal,97.04,1261.52,No
+0de051a6-69ca-47d2-b644-14fd8ae769ed,Male,47,Basic,Quarterly,Bank Transfer,99.74,2294.02,Yes
+9f64eeed-5c9d-427d-84b8-71bb300568d2,Male,42,Premium,Monthly,Bank Transfer,74.74,149.48,Yes
+71299889-a01a-4992-bf9d-3e64c1a6423b,Female,22,Premium,Monthly,Bank Transfer,87.24,1744.8,No
+445dcc38-341c-4494-8d36-6dfcc28ebd70,Female,36,Basic,Yearly,Debit Card,83.95,1007.4,No
+49bc473f-ed7b-4656-a18a-15368c99a894,Female,51,Standard,Yearly,Bank Transfer,40.17,642.72,No
+7c16128d-b2c0-4394-a17f-29e170286046,Female,43,Standard,Monthly,Credit Card,47.81,95.62,No
+a14923c2-f920-464c-8763-fcd01f15c7b6,Male,35,Standard,Yearly,Credit Card,49.2,1082.4,No
+b5b453ca-3d42-493c-8c9f-d3349bdf0377,Female,28,Standard,Yearly,PayPal,67.07,1341.4,No
+03802b70-8d03-491e-8f8d-5238288b78b5,Female,19,Premium,Yearly,PayPal,25.04,500.8,Yes
+3985fb62-17dc-4eff-a872-13f98d605936,Female,40,Premium,Yearly,Bank Transfer,87.97,1319.55,No
+1d0bc9bd-e9b5-45cf-9766-5cdafe049059,Male,38,Premium,Monthly,Credit Card,46.75,935,No
+a5d04d53-1e12-42e3-b272-92b6762172ed,Female,34,Premium,Monthly,PayPal,15.32,229.8,Yes
+eec259dc-7f95-497c-a76a-a6ced50755d9,Male,23,Premium,Yearly,PayPal,25.22,50.44,No
+b495db4e-8245-4fb4-8ab7-706eb77350ca,Female,31,Basic,Quarterly,PayPal,47.15,660.1,No
+7b85179a-d5b0-47e0-aa5d-932b45ff2c83,Male,42,Standard,Quarterly,Debit Card,35.2,563.2,No
+74eff545-3e65-4603-b8e3-654bfaf14ff0,Female,68,Premium,Quarterly,PayPal,82.44,1648.8,No
+30cbd755-6232-417a-a507-41818d1fb540,Female,26,Premium,Yearly,Credit Card,35.34,530.1,No
+bf0d073d-821c-4336-9970-cf60ebff8d15,Female,55,Basic,Monthly,Bank Transfer,18.69,168.21,Yes
+11df12d7-dd30-4e89-a2f2-35f2e11b868d,Female,69,Basic,Quarterly,PayPal,16.68,150.12,Yes
+dabac50d-ca3d-4859-85ce-099c46b82659,Female,58,Premium,Quarterly,Credit Card,39.74,874.28,No
+c9a7d91f-ef2a-4713-9702-10496a39aaa6,Male,33,Basic,Quarterly,Credit Card,35.68,428.16,No
+00a81de9-d20f-47d0-8465-6d6b81fb18b3,Female,63,Standard,Monthly,PayPal,69.29,1108.64,No
+d664d264-4c6e-47ff-b9de-7a3a486822b9,Male,61,Basic,Monthly,Credit Card,57.27,515.43,No
+a8f1e091-ffb8-402d-9475-dbc996418ced,Male,51,Basic,Monthly,PayPal,48.74,584.88,No
+7250ee18-260a-4962-9d81-b7f57d5911c6,Female,64,Premium,Monthly,PayPal,90.33,1987.26,No
+551ac8ea-585a-4afa-bbfd-cc1289e06ab3,Male,55,Basic,Monthly,PayPal,31.37,219.59,Yes
+6090d697-8b1e-4b9d-834b-9fbb8d4a75b8,Female,39,Basic,Yearly,Debit Card,33.64,67.28,No
+de9e3757-5260-401e-aecf-67d2749176f4,Male,18,Premium,Quarterly,Debit Card,90.23,1624.14,No
+3d225c30-b28f-41de-bb14-0bc3304b8590,Female,23,Standard,Yearly,Bank Transfer,31.5,315,No
+db23aa8c-3bca-4f85-a20a-60ac9261549d,Male,62,Basic,Yearly,Bank Transfer,52.28,836.48,Yes
+517400f8-0b2c-482a-a928-8e92c68a152f,Female,66,Basic,Monthly,Debit Card,86.87,1476.79,Yes
+e9d68f23-b489-4070-b914-f8a8bea4ff31,Male,37,Basic,Quarterly,PayPal,82.23,1397.91,Yes
+fd08b32c-62d6-4e93-a198-5d54cfb87e6f,Female,60,Standard,Quarterly,Credit Card,45.73,228.65,Yes
+a6eab79e-d21c-42f8-8ada-4f80a9e782d4,Male,41,Basic,Yearly,PayPal,55.67,501.03,Yes
+f6febc0e-7ecd-4baf-a6f0-5fcffb16e5db,Female,28,Standard,Yearly,PayPal,21.83,305.62,Yes
+f72169bb-8096-4718-a051-acef097a1e10,Female,61,Premium,Monthly,Credit Card,33.24,531.84,Yes
+19b17e80-dea4-4e17-94fd-9ad39716108e,Female,56,Standard,Monthly,Bank Transfer,87.66,1227.24,Yes
+1986b4b2-70b7-4868-9854-80f0dfcaf0b7,Male,64,Premium,Monthly,PayPal,88.44,1591.92,Yes
+03edd1f8-74f9-4d17-a912-b4bf86a4bae4,Female,50,Premium,Quarterly,Credit Card,20.89,167.12,No
+def57689-68f4-4bce-a4e7-5e8eb8f21423,Male,29,Standard,Yearly,PayPal,77.49,154.98,No
+1327f1bc-2784-478f-b84f-16b3a79fbfaf,Male,27,Standard,Yearly,PayPal,63.88,894.32,No
+43d88870-f81d-4aa1-8812-0a8e78308930,Female,26,Basic,Yearly,Bank Transfer,25.47,152.82,Yes
+65c17795-b155-46bc-9f8d-ed9756abf2f1,Female,46,Standard,Yearly,Bank Transfer,99.21,198.42,Yes
+541cdfcd-da0d-4a5f-948f-8b74a65bb1f2,Female,29,Premium,Yearly,Credit Card,17.6,264,Yes
+889b78d5-dbfd-497e-aca2-b148da330aa1,Male,66,Premium,Yearly,Credit Card,75.63,453.78,No
+a075e927-5110-4492-b442-7e0b61484bb3,Female,60,Standard,Yearly,Credit Card,34.78,730.38,No
+7cea2045-c268-483e-a32f-2e63b7fddd71,Female,61,Standard,Yearly,PayPal,87.18,1307.7,No
+9e11d2cd-0930-4ef6-8a80-068ddf547e50,Male,57,Premium,Quarterly,PayPal,64.1,256.4,No
+af34cf65-a193-44b2-bc19-e71d118405ad,Female,56,Standard,Monthly,PayPal,22.83,22.83,No
+3a3c8a71-ff57-4e2b-8991-ab9bebc2026f,Female,36,Basic,Quarterly,Bank Transfer,44.1,132.3,No
+fa745761-6f18-4108-9723-199dbf2c14a0,Male,44,Standard,Yearly,Credit Card,19.11,95.55,No
+b4323070-a23d-4c2f-82a7-96891933918c,Female,69,Standard,Monthly,PayPal,71.94,935.22,No
+2a96e1e2-7194-4ae2-99ba-d7aedf615a5c,Female,41,Premium,Yearly,PayPal,22.22,311.08,Yes
+0769165f-e746-4cb9-8ca9-cf07b1aa0f6a,Female,44,Standard,Yearly,Debit Card,38.19,572.85,No
+0e5dd462-cbd0-4ef2-930a-37df0bc61066,Female,54,Standard,Monthly,Credit Card,96.03,480.15,No
+6e417d47-5ff5-45ea-9bc4-40f14b1a269b,Female,21,Standard,Monthly,Credit Card,17.94,269.1,Yes
+697c3923-87fa-441a-be83-b91f25440fe0,Male,62,Standard,Monthly,Credit Card,53.01,689.13,No
+2e183554-cae2-4e66-ae8a-781390e0a95b,Female,40,Premium,Yearly,Debit Card,84.41,1097.33,Yes
+9c07a751-1437-4509-acd1-586a2b840c67,Male,38,Standard,Yearly,Bank Transfer,31.15,342.65,No
+aee1e86b-9ea5-46aa-a1ee-6c5bdeef580f,Male,18,Premium,Monthly,PayPal,23.55,47.1,No
+9549c931-e9af-499d-bf67-1eec3da70577,Male,34,Premium,Quarterly,Bank Transfer,39.32,747.08,Yes
+a34db7c5-760d-4bbb-bb70-b3a124a35cf2,Male,25,Basic,Monthly,Credit Card,58.87,1118.53,Yes
+aab612c9-415d-474a-b5a6-69814104a8b5,Male,51,Premium,Quarterly,Credit Card,51.26,1127.72,Yes
+771ad655-cdfc-4ee0-a61e-de900267deb3,Male,56,Basic,Monthly,Bank Transfer,34.82,487.48,Yes
+8beddb12-ad77-482f-89a2-3a89e6b5a92c,Female,34,Premium,Yearly,Debit Card,98.29,1179.48,No
+f1faf665-7115-43f3-92e8-9d1028711733,Female,53,Standard,Yearly,Credit Card,60.64,1394.72,No
+4c955f6a-966b-4964-bcd6-bdca5876fd09,Male,68,Standard,Monthly,PayPal,90.5,1629,No
+b0b862ef-6c9f-42b9-b647-8986a3917c99,Male,64,Premium,Monthly,PayPal,28.04,252.36,Yes
+4d57d880-d865-469a-b4f3-310340066ff2,Male,34,Basic,Monthly,Credit Card,90.38,1717.22,No
+da743152-627b-41a1-bfd6-f23232ffe294,Male,22,Basic,Yearly,Debit Card,29.87,687.01,Yes
+61a11729-3cb9-4350-9b4d-a0fe7bb38605,Female,39,Basic,Quarterly,PayPal,88.48,884.8,Yes
+4bbe4aff-9326-4ffd-9be4-bf5192698698,Female,38,Standard,Monthly,Bank Transfer,75.97,1139.55,No
+059dd55d-4b94-4e30-b303-f438fe2110d0,Female,25,Standard,Monthly,Bank Transfer,36.52,255.64,Yes
+6553867d-a881-4fd3-947d-577bfa5a91ca,Female,42,Basic,Monthly,PayPal,22.86,182.88,No
+dd750e98-90e0-495f-8212-b554464458b4,Female,26,Premium,Monthly,Bank Transfer,73,584,No
+f93e08d5-bea2-4dfe-873f-6e1baf908e3c,Female,63,Standard,Quarterly,PayPal,15.94,47.82,No
+bec39a37-9b3d-44bd-a91e-314e0c8e29e3,Female,30,Basic,Quarterly,Credit Card,95.96,575.76,Yes
+e726be23-e776-4886-9534-ee1d7f2984f5,Female,34,Premium,Quarterly,Debit Card,31.8,190.8,Yes
+3ae909fe-cc82-48da-8696-f5e64944051b,Female,43,Basic,Yearly,PayPal,30.91,216.37,No
+3810ae66-5a31-44cc-8d4b-69a99b689c88,Male,31,Standard,Yearly,PayPal,11.98,83.86,No
+402913ec-9ef2-493e-b0ac-7d7ba2f963a3,Male,34,Basic,Quarterly,Credit Card,13.03,247.57,No
+c478f6f1-b88e-4318-816d-83edad81f8bd,Male,42,Standard,Yearly,Credit Card,74.78,747.8,No
+2303f6c6-d69d-42f1-ae4c-84ffa8c01f05,Female,69,Standard,Quarterly,Debit Card,74.26,1485.2,No
+a0a11839-e745-4704-98df-bc3ca0d4de3d,Male,39,Standard,Yearly,Bank Transfer,22.86,525.78,No
+c9e26074-4f16-49a0-8a17-991ea5769411,Female,48,Standard,Quarterly,Debit Card,84.14,925.54,Yes
+5d678bb1-945e-42e4-888a-93ec70d9c9f8,Male,32,Basic,Yearly,Credit Card,56,1008,Yes
+e8dd5e5a-1712-4b16-a1a4-344fbb7bee03,Female,34,Premium,Quarterly,Bank Transfer,10.34,51.7,No
+6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,Female,46,Premium,Monthly,Credit Card,21.69,195.21,No
+c958e75e-21d5-4971-b367-49b52cf6bf75,Female,21,Standard,Yearly,PayPal,49.04,833.68,No
+5da8d6d2-f8b3-4a8b-a05f-b8bc8a16a06c,Female,29,Premium,Monthly,Credit Card,71.83,71.83,No
+45c45a3e-e9da-484a-8075-9f1f87e5f0fe,Male,27,Premium,Yearly,Credit Card,74.17,964.21,Yes
+e9ff1cae-41c8-4a8c-aa1f-955ad499da99,Female,61,Premium,Monthly,Bank Transfer,73.23,659.07,Yes
+f7a67b94-7b5a-411a-b1b6-4afed31edf1a,Male,36,Basic,Quarterly,Credit Card,42.4,678.4,No
+ded255d0-bf1e-4366-8b8e-63d4ce7607ad,Female,58,Premium,Yearly,Bank Transfer,28.8,403.2,No
+77e490c7-1d7b-4313-8de2-2f1c56b60afc,Male,24,Basic,Monthly,Debit Card,59.69,238.76,No
+c1101266-2408-46dc-9346-d1a9f6802cdb,Female,26,Basic,Quarterly,PayPal,75.74,1666.28,Yes
+ad238d36-dc32-4c97-b9c1-e262f76c8ede,Male,40,Basic,Monthly,Debit Card,45.53,364.24,No
+65bcc272-fadd-4ea3-aca5-e2fdb966442a,Female,20,Standard,Monthly,Bank Transfer,74.19,1632.18,No
+8eac0a33-cdf9-44a7-9882-b5c1f79efd70,Male,60,Premium,Monthly,Credit Card,84.1,1850.2,No
+6502d6a2-ca6a-4224-971e-16cc5da36f1b,Female,64,Basic,Quarterly,Debit Card,31.77,190.62,No
+1fa382e8-895c-4d99-83b3-8eb403902c5d,Female,34,Standard,Quarterly,PayPal,54.36,815.4,No
+bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77,Female,69,Basic,Yearly,Credit Card,96.71,580.26,No
+618ae305-95a5-4afa-831d-029fac1e86d8,Male,45,Premium,Monthly,Bank Transfer,21.84,262.08,Yes
+5f18e583-f0b6-483f-a377-f6f1d289f0ab,Male,59,Premium,Yearly,Debit Card,43.1,215.5,Yes
+78b2b549-3bdb-409e-acc2-16a01bbc91f7,Female,49,Basic,Monthly,Credit Card,76.51,535.57,No
+f1738856-e25d-46eb-9e9a-9f83066803ee,Female,29,Premium,Monthly,Bank Transfer,59.35,237.4,No
+9c2e58de-ea4e-4617-93f8-382b8fb864e4,Male,49,Premium,Monthly,PayPal,80.23,641.84,Yes
+a2a9d4d8-102e-4de5-a5cc-8bf738ab854c,Male,21,Premium,Monthly,Credit Card,94.36,188.72,No
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,Male,40,Standard,Quarterly,Bank Transfer,94.85,474.25,No
+1dde7969-6886-43db-a634-8e784d5c55c7,Female,67,Premium,Yearly,Bank Transfer,16.8,151.2,Yes
+0986bbeb-f23e-423d-8b9b-d93423c86d30,Female,61,Premium,Quarterly,Credit Card,66.02,660.2,No
+1dba1267-7e1c-45a1-bef5-18a64dead645,Male,28,Basic,Monthly,Bank Transfer,67.24,1008.6,Yes
+899ca782-e323-4d1a-bc1b-dacc18e19331,Male,60,Basic,Monthly,PayPal,92.57,2036.54,No
+5efa9c5b-7421-4f46-a37e-4b0122bae10e,Male,48,Basic,Quarterly,Debit Card,72.11,1297.98,Yes
+b24cc64f-be3e-4e57-b30a-9e32aba4fc03,Female,58,Premium,Quarterly,Credit Card,96.21,192.42,Yes
+965befdf-6b4b-4411-8a4a-0e2df22b5b98,Male,38,Standard,Monthly,Debit Card,34.72,763.84,No
+e2aa7a5d-278e-400d-ba02-66efbe055787,Female,27,Standard,Monthly,PayPal,13.95,83.7,No
+d56ce8ea-1959-4b5a-a7a8-f6366a35df59,Female,62,Premium,Monthly,Credit Card,98.31,1278.03,No
+f065c817-687a-4850-9d9b-62317d45d8ef,Male,45,Standard,Monthly,Bank Transfer,67.29,1076.64,No
+b0b63bcf-0860-4833-879d-0cdaf396ea37,Male,43,Standard,Monthly,Bank Transfer,33.36,600.48,No
+71d79665-7181-4dcf-b79e-fc6e5edb0d3c,Male,55,Standard,Quarterly,Debit Card,11.28,135.36,No
+5cd8fe1a-dafe-48a9-bc71-e0bef3579560,Male,51,Basic,Yearly,PayPal,56.93,113.86,No
